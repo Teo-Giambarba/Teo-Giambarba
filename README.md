@@ -1,14 +1,14 @@
-## Hi there 👋
-
-<h1 style="color: white;">          Aluno de Ciência da Computação pela Universidade de Vila Velha <h1>
+<section>
+<h1 style="color: white;">Aluno de Ciência da Computação pela Universidade de Vila Velh <h1>
+<p>Game Development Student | CS Student </p>
 <br>
 <div>
      <h2>Proficiências: <h2>
      <p>Godot<p>
      <img src="./imagens/goatdot.jpg" style="width: 200px; height=200px; ">
 <div>
-  
-<!--
+</section>
+<!--     
 **Teo-Giambarba/Teo-Giambarba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
